@@ -1,5 +1,5 @@
 # tusk
-<!-- I developed  code to find the largest element in array -->
+I developed  code to find the largest element in array
 #include <iostream>
 using namespace std;
 int main()
